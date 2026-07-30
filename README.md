@@ -86,7 +86,7 @@ Na primeira execução, a aplicação cria automaticamente um ficheiro `utilizad
 
 Abaixo, uma breve demonstração da aplicação em funcionamento:
 
-"Colocar Link"
+https://github.com/bresler01/examina-video/blob/main/assets/demonstracao.mp4
 
 > Nota: o vídeo também está disponível na pasta [`assets/demonstracao.mp4`](./assets/demonstracao.mp4) deste repositório.
 
