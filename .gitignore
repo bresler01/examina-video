@@ -1,0 +1,30 @@
+## Visual Studio / .NET
+
+# Pastas de build
+[Bb]in/
+[Oo]bj/
+
+# Pasta de configuração do Visual Studio
+.vs/
+
+# Ficheiros de utilizador (configurações locais, não fazem parte do código)
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ficheiros de log de build
+*.log
+
+# Ficheiros de dados gerados em tempo de execução (contas e histórico dos utilizadores)
+proj/proj/utilizadores.txt
+proj/proj/*.txt
+
+# Pastas do NuGet
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Ficheiros temporários do Windows
+Thumbs.db
+desktop.ini
