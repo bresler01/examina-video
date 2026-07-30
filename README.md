@@ -1,9 +1,3 @@
-
-
-https://github.com/user-attachments/assets/3e891b0f-b623-4950-9b9e-0851202b17d4
-
-
-
 # ExaminaVídeo
 
 Aplicação desktop em C# / Windows Forms para criação e realização de testes de precisão baseados em vídeo, desenvolvida como projeto final da unidade curricular de **Programação Orientada a Objetos** (2.º semestre, 1.º ano).
