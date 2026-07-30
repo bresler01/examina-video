@@ -75,7 +75,7 @@ proj/
 
 1. Clonar o repositório:
    ```bash
-   git clone https://github.com/<o-teu-utilizador>/examina-video.git
+   git clone https://github.com/bresler01/examina-video.git
    ```
 2. Abrir o ficheiro `proj/proj.sln` no Visual Studio 2022.
 3. Compilar e executar (F5).
