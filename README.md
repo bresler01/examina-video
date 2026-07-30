@@ -1,5 +1,9 @@
 
 
+https://github.com/user-attachments/assets/3e891b0f-b623-4950-9b9e-0851202b17d4
+
+
+
 # ExaminaVídeo
 
 Aplicação desktop em C# / Windows Forms para criação e realização de testes de precisão baseados em vídeo, desenvolvida como projeto final da unidade curricular de **Programação Orientada a Objetos** (2.º semestre, 1.º ano).
@@ -88,7 +92,7 @@ Na primeira execução, a aplicação cria automaticamente um ficheiro `utilizad
 
 Abaixo, uma breve demonstração da aplicação em funcionamento:
 
-https://github.com/user-attachments/assets/2ea27b26-8a26-4740-aa52-1c05c6fd4226
+https://github.com/user-attachments/assets/c8e9ed10-063b-4ae7-bb71-7a654cc2ba9a
 
 > Nota: o vídeo também está disponível na pasta [`assets/demonstracao.mp4`](./assets/demonstracao.mp4) deste repositório.
 
