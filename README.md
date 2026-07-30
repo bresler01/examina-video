@@ -99,6 +99,7 @@ Algumas partes do código foram desenvolvidas com o apoio do ChatGPT, utilizado 
 ## Autor
 
 Desenvolvido por **Gabrielly Bresler**, no âmbito da unidade curricular de Programação Orientada a Objetos.
+
 Data: Junho de 2025 · Instituição: IPMAIA
 
 ---
